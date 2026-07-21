@@ -1,0 +1,7 @@
+id=earpiece_audio_reroute
+name=Replacing the speakers
+version=v1.0
+versionCode=1
+author=ne_qub1
+description=Forces all sound to be played through the top speaker on Pixel 6a
+updateJson=https://raw.githubusercontent.com/nequb1/Speaker-Replacement/main/update.json
